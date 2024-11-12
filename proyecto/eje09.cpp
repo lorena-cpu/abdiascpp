@@ -195,7 +195,7 @@ int main() {
             default:
                 cout << "Opción no válida. Inténtalo de nuevo." << endl;
         }
-    } while (opcion != 5);
+    } while (opcion != 5);//hola
 
     return 0;
 }
